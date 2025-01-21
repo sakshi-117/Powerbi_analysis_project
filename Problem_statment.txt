@@ -1,0 +1,16 @@
+Problem Statement: To unlock sales insight that are not visible before sales team for decision support & automate them to reduce manual time spent in data gathering.
+
+
+Who all will be involved as stakeholders
+
+But in real life these problems are handled by service company by outsourcing to Accenture or tcs or Infosys.
+
+-Sales Director
+-Marketing Team
+-Customer Service Team
+-Data & Analytics Team
+-IT
+
+Result---
+
+An automated Dashboard providing quick & latest sales insight in order to support data driven decision making. 
